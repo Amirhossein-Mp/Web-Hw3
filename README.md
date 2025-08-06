@@ -116,6 +116,3 @@ cd Web-Hw3
    git checkout -b feature/your-feature
    ```
 3. تغییرات رو پوش کنید و Pull Request بسازید.
-
-## لایسنس
-این پروژه تحت [لایسنس MIT](LICENSE) منتشر شده.
